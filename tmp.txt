@@ -1,0 +1,89 @@
+clicks create event immediately.
+
+Asks whats going on at top of screen.
+
+Clicks red cross
+
+Asks if he can put in his own charity
+
+Says we should be able to donate to multiple charities
+
+Pauses for aminute to look at event types/themes
+clicks basketball.  slightly confused about why two are grouped together.  not
+sure what event types mean.
+
+clcks basketball.  Also clicks festival
+
+Clicks next to get to location screen
+
+clicks text part of map and chooses cambridge.
+
+What is the purpose of having the map/location? (says jeremy).
+
+Selects date and moves slider
+
+Says two people seem vague (max has to explain it to him)  Wants us to have
+number associated with number of people and display it.  Having to look up how
+many people maps to a number is not efficient.  Doesnt understand what picture
+means.
+
+Why is charity on banner?
+
+Clicks next to get to donation types
+
+Wants to choose money but not there.  Instead chooses food and something else
+that I cant see.  clicks next
+
+Looks at our slideshow for a while and swings pencil.  Clicks left button.
+Jeremy tells us if we click left we want to go left.
+
+is event type supposed to map to sports or charity?
+
+Might be helpful to explain why it maps to events.  Wants us to explain
+something like "your even thas x y and z and the business supports y and z"
+would be nice.
+
+Selects "contact them for 'city sports'"
+
+Asks us if we have a template messssage and tells us he doesnt want to "write
+his own emails all over again"
+
+Asks what help does and we show him that help only comes up for fist contact
+event.
+
+"why does help bring up help message.
+He says "why does he want help writing a message to come up when he's busy
+browsing businesses"
+
+asks whats going on on the sides. Max explains it and Jeremy... understands.
+
+
+Says "good job guys"
+
+Feedback:
+
+Mental model issues.  Tell person what they've gotten out of it.
+
+Who am I contacting? am I going to get a response?
+
+Snapshot - why is it helpful?
+
+If the key contribution is that we help them find businesses, there wshould be
+more sell of that.  That way, when you are filling out info, you know that it is
+b/c you are trying to find the businesss,rather than knowing that people who
+want to come know the exact details.
+
+
+Idea:  page instead says:
+
+we are going to help you find businesses that:
+donate to basketball events
+cater food or x y and  z.
+etc
+
+
+Why am I selecting specific ones?  Should he send messages to everybody?  Doesnt
+want to write multiple messages to each person.
+
+Our help screen is vague.  We should let the user know what they would care
+about.  Wants more feedback on how this is helping them contact the business.
