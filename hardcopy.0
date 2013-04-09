@@ -1,0 +1,31 @@
+ 2 proj_2.py  kMeans.py  pca.py                                               X
+            for j in range(k)])                                              |
+                                                                             |
+    centroids = np.copy(init)                                                |
+    n = X.shape[0]                                                           |
+    k = centroids.shape[0]                                                   |#
+    cluster_assignments = np.array([0.] * n);                                |
+    last_cost = float("inf")                                                 |c
+                                                                             |l
+    while cost(X, cluster_assignments, centroids) != last_cost:              |u
+        last_cost = cost(X, cluster_assignments, centroids)                  |s
+        # find which x is closest to which centroid                          |t
+        for i in range(n):                                                   |e
+            min_x = float("inf")                                             |r
+            arg_min = -1                                                     |
+            for j in range(k):                                               |t
+                dist = distance(X[i], centroids[j])                          |h
+                if dist < min_x:                                             |e
+                    min_x = dist                                             |
+                    arg_min = j                                              |i
+            cluster_assignments[i] = arg_min                                 |n
+        for j in range(k):                                                   |p
+            cluster_j = np.where(cluster_assignments == j)[0]                |u
+            centroids[j] = ((float(1)/cluster_j.size) *                      |t
+                           sum([X[i] for i in cluster_j]))                   |
+                                                                             |p
+    return (centroids, cluster_assignments)                                  |o
+                                                                             |i
+~                                                                            |n
+kMeans.py                                                  32,1           Bot <
+
